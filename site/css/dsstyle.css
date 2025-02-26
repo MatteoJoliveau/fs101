@@ -1,0 +1,70 @@
+A:link { color: #840000; text-decoration: none ; font-family: Verdana, Arial, Helvetica, sans-serif}
+A:visited { color: #840000; text-decoration: none ; font-family: Verdana, Arial, Helvetica, sans-serif}
+A:active { color: #3333ff; text-decoration: none ; font-family: Verdana, Arial, Helvetica, sans-serif}
+A:hover { color: #ff0033; text-decoration: underline ; font-family: Verdana, Arial, Helvetica, sans-serif}
+
+body
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px; 
+  color: #000000;
+  background-color: #ffffff;
+}
+
+td
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px; 
+  color: #000000;
+}
+
+.error
+{
+  font-family: Courier New, Courier, mono;
+  font-size: 14px; 
+  color: #CC0000;
+}
+
+.title
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px; 
+  color: #400000;
+  font-weight: bold;
+; text-transform: capitalize
+}
+
+.small
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8px; 
+  color: #400000;
+}
+
+.large
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px; 
+  color: #400000;
+  font-weight: bold;
+}
+/*
+     FILE ARCHIVED ON 12:23:02 Aug 20, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:02:17 Feb 26, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.613
+  exclusion.robots: 0.024
+  exclusion.robots.policy: 0.01
+  esindex: 0.014
+  cdx.remote: 16.323
+  LoadShardBlock: 122.776 (3)
+  PetaboxLoader3.datanode: 139.252 (4)
+  load_resource: 107.941
+  PetaboxLoader3.resolve: 85.616
+*/
